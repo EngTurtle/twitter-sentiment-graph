@@ -1,3 +1,3 @@
 flask
 https://projects.csail.mit.edu/spatial/images/f/f8/Stanford-parser-python-r22186.tar.gz
-twitter
+python-twitter
